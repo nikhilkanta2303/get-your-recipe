@@ -1,0 +1,50 @@
+#iimage{
+    width: 8cm;
+    border-radius: 20px;
+    box-shadow: 9px 6px 10px gray;
+}
+
+#head{
+    font-size: 250%;
+}
+
+#top{
+    margin-top: 5%;
+}
+
+*{
+    font-family: sans-serif;
+}
+
+ul{
+    list-style-type: none;
+    padding: 5px;
+}
+
+pre{
+    padding: 5px;
+    line-height: 30px;
+}
+
+.items{
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+    width:50%;
+    padding: 10%;
+    border-radius: 23px;
+}
+
+.inst{
+    margin-top: 12%;
+    padding: 9%;
+    border-radius: 23px;
+    width: 55%;
+    text-align: justify;
+    background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);
+}
+li{
+    padding: 3%;
+}
+
+#return{
+    text-decoration: none;
+}

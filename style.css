@@ -1,0 +1,37 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: rgba(255, 255, 255, 0.418);
+}
+#top{
+    margin-top: 10%;
+}
+#searchbar,#srch{
+    
+    width: 20rem;
+    height: 2.5rem;
+    border-radius: 20px;
+    text-align: center;
+    border: none;
+    background-color: #E6E6FA;
+}
+#srch{
+    width: 2.2cm;
+    background-color: rgb(64, 196, 64);
+    color: white;
+    border-radius: 20px;
+}
+a{
+    text-decoration: none;
+    
+}
+
+#guide{
+    height: 2.5rem;
+    width: 10rem;
+    border: none;
+    border-radius: 23px;
+    background-color: #ffa719;
+    color: white;
+}
